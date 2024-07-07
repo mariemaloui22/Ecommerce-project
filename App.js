@@ -17,7 +17,7 @@ function App() {
         <Routes>
           <Route path="/men" element={<Men />} />
           <Route path="/women" element={<Women />} />
-          <Route path="/electronicshttps://github.com/mariemaloui22/Ecommerce-project.git" element={<Electronics/>} />
+          <Route path="/electronics" element={<Electronics/>} />
           
         </Routes>
       </BrowserRouter>
